@@ -1,7 +1,5 @@
-# papier-mache
+# PAPIER MÂCHÉ
 
-Papier Mâché
-PAPIER MÂCHÉ
 Fire!
 
 Descripción del proyecto
