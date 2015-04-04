@@ -1,6 +1,6 @@
 # PAPIER MÂCHÉ
 
-Fire!
+Juego 2D en Unity desarrollado por el grupo de Meetup UnityElx
 
 Descripción del proyecto
 
